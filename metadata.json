@@ -1,0 +1,6 @@
+{
+  "name": "Content Transformation Engine",
+  "description": "An enterprise-grade Content Transformation Platform that parses complex source documents into a Canonical Knowledge Model and synthesizes consistent communication artifacts like Executive Summaries, Advisories, Social Posts, Twitter Threads, Slide Decks, and Interactive Infographics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
